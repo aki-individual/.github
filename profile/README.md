@@ -1,3 +1,3 @@
 # .github  
-**sample**
+**sample**  
 ここは~~
